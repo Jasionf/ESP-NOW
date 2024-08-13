@@ -63,8 +63,11 @@ In this project , i am using ***Seeed Studio*** development board and Grove Sens
 - **Security**: Supports encryption to ensure secure data transmission and protect user privacy.
 
 
-<h1 ailgn="center">🤘That's it, everyone can use this to modify a better demo🤘</h1>
+<h1 ailgn="center">
+    🤘That's it, everyone can use this to modify a better demo🤘
+</h1>
 
-  <div style="text-align: center;">
-    <img src="https://github.com/Jasionf/ESP_NOW/raw/Main/download-removebg-preview-removebg-preview.png" style="width: 1000px; height: auto;" />
-</div>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
